@@ -1,0 +1,32 @@
+{
+    "id": "b729bbc3-b950-4b21-a4c4-7078b514f9ff",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "b729bbc3-b950-4b21-a4c4-7078b514f9ff",
+    "children": [
+        "a1c5f1fa-7ac0-49c5-8c27-5bfd0fe4d236",
+        "c6e50faf-30a8-49ae-b23a-355f14916643",
+        "e980c9ba-8b39-457a-8a1f-0e5843bfbbaa",
+        "0f07e1b1-3451-48cf-89a4-dbea3808d8ea",
+        "d0df7e9c-34d9-42aa-99d7-74f29320bb2f",
+        "c50961a0-a0ac-41c0-aad5-9d11db5afbee",
+        "9e45ed2c-9abd-4d87-824e-e8fe2cd5ac70",
+        "c2735d91-480c-4f97-90d6-0f7ef068ec18",
+        "95bcd5ec-9cb9-4495-9564-11e3c34586ac",
+        "739ac274-0fbc-4c17-bd02-533e8f377c40",
+        "c9baa7d1-00da-4c47-93ad-9668c95d281c",
+        "1d4a664d-2b3c-42b6-bb0f-31142e80813e",
+        "83f64693-d0a2-4450-9de1-9b4dbe3257c3",
+        "c2bafef0-5463-462f-8d55-9e6cfcf4226d",
+        "18bed008-437e-4688-a481-9cc9f94441ce",
+        "279085f3-7c4f-4c2b-a2d6-40423bdd5943",
+        "4502b9fe-dcd9-4a9a-acbe-5dd56ac28fb1",
+        "babb67a9-87fe-4e05-bce4-eaee266ffc88",
+        "98a6ee8d-3f80-43a7-8ac2-5d7a174db98d",
+        "c0f53b7b-8b92-4892-b679-eeba53c2c8be"
+    ],
+    "filterType": "GMObject",
+    "folderName": "enemies",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
